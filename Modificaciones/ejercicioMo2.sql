@@ -1,0 +1,2 @@
+INSERT INTO user (username, password) VALUES ("Carolina","152006"),("Jesica","1762006"),("Gisel","242006"),("Daiana","962006");
+INSERT INTO post (author_id, title, body ) VALUES ("1","Wall-e",""),("2", "UP", "cuando....."),("3", "Nemo","A un pez payaso...."),("4", "El libro de la vida","La historia trata sobre..")
