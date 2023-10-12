@@ -7,5 +7,5 @@ JOIN inventory i ON i.store_id = s.store_id
 GROUP BY s.store_id, direccion, ciudad, pais
 ORDER BY cantidad_de_inventario;
 
-SELECT ciudad FROM total_de_ejemplares_local 
-WHERE ciudad ilike 'leth%';
+    SELECT ciudad FROM total_de_ejemplares_local 
+    WHERE ciudad ilike 'leth%';
